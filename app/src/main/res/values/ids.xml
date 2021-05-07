@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="restaurant_price" type="id" />
+    <item name="restaurant_locationbias" type="id" />
+
+</resources>

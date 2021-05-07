@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">EatQuest</string>
+    <string name="option_get_list">Get List</string>
+    <string name="option_sort_list_distance">Distance</string>
+    <string name="option_sort_list_rating">Rating</string>
+    <string name="option_sort_list_price">Price</string>
+    <string name="google_maps_api_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDWBscj58Wvzaq87uH5xdDIKB2uKSrWvSM</string>
+    <string name="places_api_key">AIzaSyCEpLRjoupchPtJoXt9Wd50OXWRtkQ4Fgk</string>
+
+    <string name="food_prompt">Choose Food Type</string>
+    <string name="distance_prompt">Choose Distance</string>
+    <string name="price_prompt">Choose Price Level</string>
+
+    <string-array name="foods_arrays">
+        <item>Mexican</item>
+        <item>Chinese</item>
+        <item>American</item>
+        <item>Italian</item>
+        <item>Vietnamese</item>
+    </string-array>
+
+    <string-array name="distance_arrays">
+        <item>1 mile</item>
+        <item>2 miles</item>
+        <item>3 miles</item>
+        <item>4 miles</item>
+        <item>5 miles</item>
+    </string-array>
+
+    <string-array name="price_arrays">
+        <item>1 - Inexpensive</item>
+        <item>2 - Moderate</item>
+        <item>3 - Expensive</item>
+        <item>4 - Very Expensive</item>
+    </string-array>
+</resources>
