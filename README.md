@@ -16,3 +16,6 @@ in which the users can filter out the type of restaurant they would like to eat 
 ![EatQuestMap](https://user-images.githubusercontent.com/47703183/236341187-cd640400-9f38-4655-be04-6a20c0f325c9.png)
 ![EatQuestList](https://user-images.githubusercontent.com/47703183/236341204-96b1a753-d350-47d8-994e-6f410d4ca5db.png)
 ![EatQuestRestaurant](https://user-images.githubusercontent.com/47703183/236341221-efc5ba3a-dad4-4d75-b344-e2f6984d2fa6.png)
+
+[EATQUEST presentation.pdf](https://github.com/avelas68/Nearby-Restaurants/files/11402918/EATQUEST.presentation.pdf)
+
